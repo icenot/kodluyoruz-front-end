@@ -22,3 +22,4 @@ kendimle ilgili bilgiler verirken aynı zamanda bana değer katan bir oluşuma t
 <p> Yazar Evren hakkında bilgi verirken, aynı zamanda vurgularıyla Evrenin büyüklüğü 
     karşısında ne kadar küçük olduğumuzu hatırlatır.  </p>  
 
+https://www.patika.dev/tr
